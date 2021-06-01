@@ -11,7 +11,7 @@ Perform the following operations.
 
 |              |   |
 |--------------|---|
-| Full name    |   |
-| Address      |   |
-| DOB          |   |
-| Phone Number |   |
+| Full name    | Jay Shingala  |
+| Address      | 301 Shree rem plaza apartment  |
+| DOB          | 10 01 2000  |
+| Phone Number | 9773139250  |
